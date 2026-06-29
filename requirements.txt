@@ -1,0 +1,23 @@
+# Core (none required for plain Python learning, add as needed per topic)
+
+# Linting / formatting
+black
+flake8
+mypy
+pytest
+
+# Web scraping & requests
+requests
+beautifulsoup4
+
+# Web frameworks (uncomment when needed)
+# flask
+# django
+# fastapi
+# uvicorn
+
+# Data & ML (uncomment when needed)
+# numpy
+# pandas
+# matplotlib
+# scikit-learn
